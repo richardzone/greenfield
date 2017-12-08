@@ -1,4 +1,3 @@
-# quokka
-Projects scaffolding done right
+# The Greenfield Scaffolder
 
-Currently serves as proof-of-concept work
+Opinionated project bootstrapper.

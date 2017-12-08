@@ -1,0 +1,36 @@
+{
+  "name": "greenfield",
+  "version": "0.1.0",
+  "description": "Opinionated project bootstrap tool.",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardzone/greenfield.git"
+  },
+  "keywords": [
+    "devops",
+    "cloud",
+    "cd",
+    "docker"
+  ],
+  "author": "Richard LIU <i@richard.zone>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardzone/greenfield/issues"
+  },
+  "homepage": "https://github.com/richardzone/greenfield#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "fs-extra": "^4.0.3",
+    "github": "^12.1.0",
+    "idx": "^2.2.0",
+    "inquirer": "^4.0.1",
+    "simple-git": "^1.84.0",
+    "yargs": "^10.0.3"
+  }
+}
